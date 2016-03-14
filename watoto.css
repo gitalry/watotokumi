@@ -1,0 +1,13 @@
+/* This is the style sheet is for rembesha'ng my web pages */
+body {
+background-color: cornsilk; /* The rgb value is #ffffff */
+color: black; /* This is the font color */
+font: calibri;
+border: 10px;
+padding: 25px;
+margin: 15px;
+
+border-style: solid;
+border-color: brown;
+
+}
