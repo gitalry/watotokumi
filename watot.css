@@ -1,0 +1,13 @@
+/* This is the style sheet is for rembesha'ng my web pages */
+body {
+background-image: url(Untit.jpg);
+color: black; /* This is the font color */
+font: sans-serif;
+border: 5px;
+padding: 25px;
+margin: 15px;
+
+border-style: solid;
+border-color: green;
+
+}
