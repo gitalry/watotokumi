@@ -41,5 +41,13 @@ body {
 }
 #footer {
     background-color: darkmagenta;
-    
+    font-family: monospace;
+    font-size: 18;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 80px;
+    clear: both;
 }
