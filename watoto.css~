@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+/* This is the style sheet is for rembesha'ng my web pages */
+
+body {
+    background-color: burlywood;
+    color: black;
+    /* This is the font color */
+    font: serif;
+    border: 5px;
+    padding: 25px;
+    margin: 15px;
+    border-style: solid;
+    border-color: green;
+=======
 /* This is the style sheet is for web pages */
 body {
     width: 95%;
@@ -50,4 +64,5 @@ body {
     margin-top: 20;
     height: 80px;
     clear: both;
+>>>>>>> c068e83120d48cc80428a4c8caba77cdf57d785f
 }
