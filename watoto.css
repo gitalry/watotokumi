@@ -1,13 +1,13 @@
 /* This is the style sheet is for rembesha'ng my web pages */
+
 body {
-background-color: burlywood;
-color: black; /* This is the font color */
-font: serif;
-border: 5px;
-padding: 25px;
-margin: 15px;
-
-border-style: solid;
-border-color: green;
-
+    background-color: burlywood;
+    color: black;
+    /* This is the font color */
+    font: serif;
+    border: 5px;
+    padding: 25px;
+    margin: 15px;
+    border-style: solid;
+    border-color: green;
 }
