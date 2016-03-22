@@ -1,11 +1,11 @@
 /* This is the style sheet is for rembesha'ng my web pages */
 body {
-background-color: burlywood;
-color: black; /* This is the font color */
-font: serif;
-border: 5px;
-padding: 25px;
-margin: 15px;
+    width: 95%;
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    border: 5px;
+    padding: 10px
 
 border-style: solid;
 border-color: green;
