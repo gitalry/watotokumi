@@ -21,11 +21,16 @@ body {
     margin-bottom: 20px;
     margin-top: 20;
 }
+
    #navig {
     background-color: greenyellow;
     font-family: arial;
     word-spacing: 120px;
     font-size: 26;
     padding-top: 20px;
-    
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 100px;
+    text-align: center;
 } 
