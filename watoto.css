@@ -56,10 +56,8 @@
         margin-right: auto;
     }
     #footer {
-        background-color: darkmagenta;
-        font-family: monospace;
-        font-size: 18;
-        text-align: left;
+        background-color: gainsboro;
+        font-size: 13;
         padding-top: 20px;
         padding-bottom: 20px;
         margin-bottom: 20px;
