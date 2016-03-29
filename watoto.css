@@ -1,9 +1,11 @@
 /* This is the style sheet is for web pages */
+
 body {
     width: 95%;
-    background-color: aliceblue;
-    color: black;
-    font-family: 'Oswald', sans-serif;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 18;
     border: 5px;
     padding: 10px;
     margin: 2px;
@@ -11,7 +13,6 @@ body {
     border-color: grey;
 }
 #title {
-
     height: 100px;
     background-color: darkmagenta;
     font-family: monospace;
@@ -21,8 +22,10 @@ body {
     margin-bottom: 20px;
     margin-top: 20;
 }
+
 /*this navig div will hold navigation links*/
-   #navig {
+
+#navig {
     background-color: greenyellow;
     font-family: arial;
     word-spacing: 120px;
@@ -33,7 +36,7 @@ body {
     margin-top: 20;
     height: 100px;
     text-align: center;
-} 
+}
 #container {
     width: auto;
     margin-left: auto;
