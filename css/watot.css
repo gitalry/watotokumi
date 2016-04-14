@@ -1,0 +1,31 @@
+/* This is the style sheet is for rembesha'ng my web pages */
+
+body {
+    background-image: url(Untit.jpg);
+    color: black;
+    /* This is the font color */
+    font: sans-serif;
+    width: 90%;
+    background-color: black;
+    font-family: cursive;
+    font-size: 18;
+    border: 5px;
+    border-style: solid;
+    border-color: darkmagenta;
+    border-left-width: 50px;
+    border-right-width: 50px;
+}
+
+}
+#footer {
+    background-color: gainsboro;
+    font-size: 13;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 200px;
+    clear: both;
+    width: auto;
+}
