@@ -3,14 +3,13 @@
     body {
         width: 70%;
         background-color: black;
-        color: white;
+}#container{ color: white;
         font-family: cursive;
         font-size: 18;
         border: 5px;
         border-style: solid;
-        border-color: darkmagenta;
-        border-left-width: 50px;
-        border-right-width: 50px;
+        border-color: black;
+
     }
     #kichwa {
         font-family: monospace;
