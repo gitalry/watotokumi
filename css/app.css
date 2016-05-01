@@ -1,0 +1,77 @@
+
+
+   body {
+        width: 100%;
+        
+}
+#container{ color: white;
+        font-family: cursive;
+        font-size: 18;
+        border: 5px;
+        border-style: solid;
+        border-color: black;
+
+    }
+    #kichwa {
+        font-family: monospace;
+        color: yellow;
+        font-size: 19;
+        font-size-adjust: auto;
+        background-color: gainsboro;
+        font-size: 13;
+        color: black;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        margin-top: 20;
+        height: 33px;
+        clear: both;
+    }
+
+#header {
+    background-color: darkgray;
+}
+#gall {
+    align-content: center;
+    image-orientation: center;
+}
+#title {
+    height: 100px;
+    background-color: darkmagenta;
+    font-family: monospace;
+    font-size: 32;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+}
+
+/*this navig div will hold navigation links*/
+#navig {
+    background-color: greenyellow;
+    font-family: arial;
+    word-spacing: 120px;
+    font-size: 26;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 100px;
+    text-align: center;
+}
+#container {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    background-color: gainsboro;
+    font-size: 13;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-top: 20;
+    height: 80px;
+    clear: both;
+}
