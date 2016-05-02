@@ -1,33 +1,17 @@
 <!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Watoto Kumi</title>
-    <link rel="stylesheet" href="css/foundation.css">
-    <link rel="stylesheet" href="css/app.css">
-  </head>
-  <body>
-    <div class="row">
-      <div class="large-12 columns">
-        <h1>Watoto Kumi</h1>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="large-12 columns">
-        <ul>
-   <li> <a href="index.html">HOME</a></li>
-   <li><a href="programs.html">PROGRAMS</a></li>
-   <li><a href="gallery.html">GALLERY</a></li>
-   <li><a href="stories.html">STORIES</a></li>
- <li><a href="Aboutus.html">ABOUT US</a></li>
-</ul> </div>
-<div class="row">
-      <div class="large-12 columns">
-
-
+<html lang=''>
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel='stylesheet' type='text/css' href='css/styles.css'>
+ <link rel='stylesheet' type='text/css' href='css/watot.css'>
+     <link rel='stylesheet' type='text/css' href='css/watoto.css'>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="script.js"></script>
+   <title>WATOTO KUMI CHILDREN'S HOME</title>
+</head>
+<body>
 
 
 
@@ -86,20 +70,6 @@
     </div>
 
 
- <div class="row footer">
-            <p align="center">&copy; James</p>
-        </div>
-
-
-
 </body>
 
-    </div>
-
- </div>
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
-  </body>
 </html>
