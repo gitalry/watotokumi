@@ -1,0 +1,25 @@
+body{
+    width 100%;
+
+}
+li{
+    display: inline;
+background-color: lightpink;
+    width: 100%;
+    padding: 20px;
+    position: sticky;
+}
+a {
+
+    padding: 8px;
+    background-color: 333;
+    color: aquamarine;
+}
+li a:hover {
+    background-color:khaki;
+    }
+.footer{
+     background-color: gray;
+padding: 20px;
+    clear: both
+}
