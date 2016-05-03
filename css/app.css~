@@ -1,17 +1,19 @@
 body{
     width 100%;
-
+background-color: #FACCD3;
+font-family: 'PT Sans', sans-serif;
 }
 li{
     display: inline;
-background-color: lightpink;
+background-color: blue;
     width: 100%;
+color:white;
     padding: 20px;
     position: sticky;
 }
 a {
 
-    padding: 8px;
+   
     background-color: 333;
     color: black;
 }
@@ -21,5 +23,7 @@ li a:hover {
 .footer{
      background-color: gray;
 padding: 20px;
-    clear: both
+    clear: both;
+background-color: blue;
+color:white;
 }

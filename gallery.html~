@@ -1,60 +1,75 @@
 <!doctype html>
-<html lang=''>
+<html class="no-js" lang="en" dir="ltr">
+
 <head>
-   <meta charset='utf-8'>
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link rel='stylesheet' type='text/css' href='css/styles.css'>
- <link rel='stylesheet' type='text/css' href='css/watot.css'>
-     <link rel='stylesheet' type='text/css' href='css/watoto.css'>
-<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-   <script src="script.js"></script>
-   <title>WATOTO KUMI CHILDREN'S HOME</title>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watoto Kumi</title>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
 </head>
+
 <body>
-<div id="container">   <H2>ABOUT US</H2>
-<div id='cssmenu'><H2 align="center">WATOTO KUMI CHILDREN'S HOME</H2>
-<ul>
-   <li> <a href="index.html">HOME</a></li>
-   <li><a href="programs.html">PROGRAMS</a></li>
-   <li><a href="gallery.html">GALLERY</a></li>
-   <li><a href="stories.html">STORIES</a></li>
- <li><a href="Aboutus.html">ABOUT US</a></li>
-</ul>
-</div>
-
-
-            <br>
-            <p> Cibo mucius oblique vis eu, at veritus torquatos his. Tale probo ullamcorper nam no, id sit homero vivendum, id atqui movet sit. Sea et ignota fabulas posidonium, habemus prodesset ad mel. Ne sit labitur dolores ullamcorper, velit oportere id pri. Et prima dicat vix, ius ei illud iriure mnesarchum.
-            </p>
-            <p>
-                <br/ align="center"> <img src="Childrens-Home-5.jpg" align="center" width="400" height="200" alt=""> <img/>
-                    <br/> Id eam assum debitis, nec causae hendrerit at. Ei est elit efficiendi signiferumque, et mea tibique gubergren conclusionemque. Vis ut inani oporteat, vim idque integre gubergren ad, an pri scripta laoreet. Pri incorrupte efficiendi appellantur et. Error dolores et mea, nibh omnes utroque at his. </p>
-            <p>
-                <br/ align="center"> <img src="children%20home.jpg" align="center" width="400" height="200" alt=""> <img/>
-                    <br/> Te est semper mentitum, ne habeo scripta integre vim. No modus quodsi pri. Id illum mandamus mei. Ex has modus facer volutpat, eam duis placerat te, dicat indoctum qui eu. Est ne scripta fierent, id regione periculis democritum vix.
-            </p>
-            <p>
-                Ex erat tritani has, in melius salutandi repudiare duo. Est in ornatus mnesarchum dissentiunt, vero ornatus eum id, has ad reque putent habemus. Eius novum appareat eu mea, duo vide alterum.
-            </p>
-            <p>
-                <br/ align="center"> <img src="watoto%20photo.jpg" align="center" width="400" height="200" alt=""> <img/>
-                    <br/> Quo errem signiferumque in, sit augue exerci doming id, noluisse aliquando quo no. Brute altera mentitum et mei. Vivendum concludaturque an sit, pri cu ludus blandit. </p>
-
-            <p> <img align="center" align="center" src="nyumbani21.jpg" width="800" height="490" alt=""> <img/>
-
-
-
-                <p> <img align="center" src="Pic-Scholars.jpg" width="800" height="490" alt=""> <img/>
-
-                    <p> <img align="center" src="watoto.jpg" width="800" height="490" alt=""> <img/>
-                        <br>
-
-                        <br> <img align="center" src="nyumbani21.jpg" width="800" height="500" alt=""> <img/>
+    <div class="row">
+        <div class="large-12 columns">
+            <h1>Watoto Kumi</h1>
         </div>
-        <div id="footer">
-            <p align="center">built sweet</p>
+    </div>
+
+    <div class="row">
+        <div class="large-12 columns">
+            <ul>
+                <li> <a href="index.html">HOME</a></li>
+                <li><a href="programs.html">PROGRAMS</a></li>
+                <li><a href="gallery.html">GALLERY</a></li>
+                <li><a href="stories.html">STORIES</a></li>
+                <li><a href="Aboutus.html">ABOUT US</a></li>
+            </ul>
         </div>
-    </body>
+        <div class="row">
+            <div class="large-4 columns">
+                <img src="images/Pic-Scholars.jpg">
+                <br>
+            </div>
+            <div class="large-4 columns">
+                <img src="images/watoto.jpg">
+                <br>
+            </div>
+
+            <div class="large-4 columns">
+                <img src="images/nyumbani21.jpg">
+                <br>
+            </div>
+        </div>
+        <div class="row">&nbsp;
+        </div>
+        <div class="row">
+
+
+            <div class="large-4 columns">
+                <img src="images/children%20home.jpg">
+                <br>
+            </div>
+            <div class="large-4 columns">
+                <img src="images/Pic-Scholars.jpg">
+                <br>
+            </div>
+            <div class="large-4 columns">
+
+                <img src="images/watoto%20photo.jpg">
+                <br>
+            </div>
+
+        </div>
+         <div class="row footer">
+        <p align="center">&copy; James</p>
+    </div>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+</body>
 
 </html>
