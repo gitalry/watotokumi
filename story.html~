@@ -1,22 +1,40 @@
 <!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-
+<html lang=''>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WATOTO KUMI CHILDREN'S HOME</title>
-<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/foundation.css">
-    <link rel="stylesheet" href="css/app.css">
+   <meta charset='utf-8'>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel='stylesheet' type='text/css' href='css/styles.css'>
+ <link rel='stylesheet' type='text/css' href='css/watot.css'>
+     <link rel='stylesheet' type='text/css' href='css/watoto.css'>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="script.js"></script>
+   <title>WATOTO KUMI CHILDREN'S HOME</title>
 </head>
-
 <body>
-    <div class="row">
-        <div class="large-12 columns">
-            <h2>WATOTO KUMI CHILDREN'S HOME</h2>
-        </div>
-    </div>
+<div id="container">   <H2>ABOUT US</H2>
+<div id='cssmenu'><H2 align="center">WATOTO KUMI CHILDREN'S HOME</H2>
+<ul>
+   <li> <a href="index.html">HOME</a></li>
+   <li><a href="programs.html">PROGRAMS</a></li>
+   <li><a href="gallery.html">GALLERY</a></li>
+   <li><a href="stories.html">STORIES</a></li>
+ <li><a href="Aboutus.html">ABOUT US</a></li>
+</ul>
+</div>
+    
+
+
+    
+    
+                     <ul><li><i><a href="story.html">STORY 1</a></i></li><br>
+                         <li> <i><a href="story2.html">STORY 2</a></i> </li><br>
+ <li><i><a href="story3.html">STORY 3</a></i></li><br>
+<li> <i><a href="story4.html">STORY 4</a></i> </li><br>
+ <li><i><a href="story5.html">STORY 5</a></i></li><br>
+     <li><i><a href="story6.html">STORY 6</a></i></li><br>
+                <li> <i><a href="story7.html">STORY 7</a></i></li></ul>
+        
   
     <br><h3>First Story</h3>
     
@@ -39,13 +57,8 @@
 
  Utroque maiorum lucilius et vim. Vel paulo dolores te, stet tantas suscipit ut mel. Sit labores necessitatibus in. Vis eirmod recteque erroribus ne, cu quo labitur aliquando intellegat, id vel sanctus offendit. </p><p> 
 
-<div class="row footer">
-            <p align="center">&copy; James</p>
-        </div>
-
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
-  </body>
+    
+    
+    
+    </body>
 </html>

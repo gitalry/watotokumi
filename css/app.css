@@ -20,13 +20,16 @@ li {
 h2 {
     position: center;
 }
+.picx{
+    height: 35%;
+}
 
 table a     {
     color: black;
 }
 
 a {
-    background-color: 333;
+
     color: white;
 }
 
